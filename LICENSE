@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2026 fengtao818
+Scope: This license applies to the authors' original source code and package
+documentation. The repository does not redistribute IBM CPLEX or grant rights
+to third-party software or data sources.
+
+Copyright (c) 2026 Tao Feng, Qinghe Sun, Shuaian Wang, and Lingxiao Wu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
