@@ -21,7 +21,7 @@ repository using the following BibTeX record.
 @misc{Feng2026ROFSP,
   author    = {Tao Feng and Qinghe Sun and Shuaian Wang and Lingxiao Wu},
   publisher = {INFORMS Journal on Computing},
-  title     = {Boosting Agility Amid Disruption: A Nested Branch-and-Cut
+  title     = {A Nested Branch-and-Cut
                Approach for Robust Freight Service Planning on Urban Rail
                Transit Networks},
   year      = {2026},
