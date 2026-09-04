@@ -1,0 +1,7 @@
+PureCCGIteration0327：在该版本中，通过cplex解决每次CCG的主问题。
+0405-preparationforcapacitycons0405：该版本在考虑使用capacity constraint之前，此时需要修改bac中的可行割添加
+0425beforeusingvalidcut：该版本保存于使用cutting planne和validcut 之前
+0427-allstrategies：这个版本包含所有的加速策略，经测试后仅validcut cut2和multicut有效
+0510-usingCCGBAC：使用CCG+bac策略求解该问题
+0514-beforesuingBAC：后续版本中使用branchandcut解决该问题
+20260206-firstrevision-beforesimplification：准备简化程序中不必要的策略，为后续审稿提交程序做准备，因而将完整版的版本进行保存
